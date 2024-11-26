@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # requirements_dev.txt we use for the testing
 It makes it easier to install and manage dependencies for development and testing, separate from the dependencies required for production.
 
@@ -47,3 +48,6 @@ In summary, setup.cfg is used by setuptools to configure the packaging and insta
 3. pycodestyle
 
 
+=======
+MongoDB Connector
+>>>>>>> 19697308d75c0440b3cec732e01a04b2f7dbf382
